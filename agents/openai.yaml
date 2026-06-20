@@ -1,0 +1,4 @@
+interface:
+  display_name: "WeChat MP Article Archive"
+  short_description: "Read WeChat posts and export Word archives"
+  default_prompt: "Use $wechat-mp-article-archive to read recent WeChat public account posts and export them as Word documents."
